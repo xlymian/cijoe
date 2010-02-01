@@ -18,6 +18,7 @@ require 'cijoe/config'
 require 'cijoe/commit'
 require 'cijoe/build'
 require 'cijoe/campfire'
+require 'cijoe/talker'
 require 'cijoe/server'
 
 class CIJoe

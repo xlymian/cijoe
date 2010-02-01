@@ -19,6 +19,7 @@ begin
     gemspec.add_development_dependency 'rack-test'
     gemspec.version = CIJoe::Version.to_s
   end
+  Jeweler::GemcutterTasks.new
 rescue LoadError
   puts "Jeweler not available." 
   puts "Install it with: gem install jeweler"

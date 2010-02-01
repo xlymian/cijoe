@@ -41,7 +41,8 @@ Gem::Specification.new do |s|
      "lib/cijoe/views/template.erb",
      "test/helper.rb",
      "test/test_cijoe.rb",
-     "test/test_cijoe_server.rb"
+     "test/test_cijoe_server.rb",
+     "xlymian-cijoe.gemspec"
   ]
   s.homepage = %q{http://github.com/defunkt/cijoe}
   s.rdoc_options = ["--charset=UTF-8"]
